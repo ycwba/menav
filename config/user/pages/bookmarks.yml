@@ -1,11 +1,18 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-25T06:12:52.135Z
+# 由bookmark-processor.js生成于 2025-05-25T06:20:33.146Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
 title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 categories:
+  - name: 书签栏
+    icon: fas fa-folder
+    sites:
+      - name: vercel
+        url: https://vercel.com/
+        icon: fas fa-link
+        description: ""
   - name: 其他书签
     icon: fas fa-folder
     sites:
@@ -335,17 +342,5 @@ categories:
         description: ""
       - name: 自由钢琴 - AutoPiano | 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
         url: https://www.autopiano.cn/
-        icon: fas fa-link
-        description: ""
-      - name: vercel
-        url: https://vercel.com/
-        icon: fas fa-link
-        description: ""
-      - name: vercel
-        url: https://vercel.com/
-        icon: fas fa-link
-        description: ""
-      - name: vercel
-        url: https://vercel.com/
         icon: fas fa-link
         description: ""
