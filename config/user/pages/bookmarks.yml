@@ -1,0 +1,351 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2025-05-25T06:08:39.096Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+categories:
+  - name: 其他书签
+    icon: fas fa-folder
+    sites:
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-link
+        description: ""
+      - name: 菜鸟教程
+        url: https://m.runoob.com/
+        icon: fas fa-link
+        description: ""
+      - name: MJJ.TODAY - 免费图床 上传图片分享
+        url: https://mjj.today/
+        icon: fas fa-link
+        description: ""
+      - name: 仪表盘 - 外星云
+        url: https://www.xn--9kq49wbqk.site/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: Portal - The Ring of Wonder
+        url: https://trow.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 天工AI
+        url: https://www.tiangong.cn/
+        icon: fas fa-link
+        description: ""
+      - name: PanSearch | 网盘资源搜索 | 网盘搜索引擎
+        url: https://www.pansearch.me/
+        icon: fas fa-link
+        description: ""
+      - name: 图床
+        url: https://111666.best/
+        icon: fas fa-link
+        description: ""
+      - name: X
+        url: https://x.com/home
+        icon: fas fa-link
+        description: ""
+      - name: 世界知识产权组织
+        url: https://www.wipo.int/portal/zh/
+        icon: fas fa-link
+        description: ""
+      - name: 中国数字时代 - 在这里，了解祖国
+        url: https://chinadigitaltimes.net/chinese
+        icon: fas fa-link
+        description: ""
+      - name: 爱妹子
+        url: https://xx.knit.bid/
+        icon: fas fa-link
+        description: ""
+      - name: AI Féng Hé Guài(缝合怪)(bsdsma.com)_Java代码生成器，远程1对1服务
+        url: https://bsdsma.com/
+        icon: fas fa-link
+        description: ""
+      - name: eu.org域名的申请流程 - Eslzzyl - 博客园
+        url: https://www.cnblogs.com/eslzzyl/p/17765702.html
+        icon: fas fa-link
+        description: ""
+      - name: 【推荐】目前市面上免费的大模型API汇总（2024年6月17日） - 资源荟萃 - LINUX DO
+        url: https://linux.do/t/topic/113902
+        icon: fas fa-link
+        description: ""
+      - name: 基于CNN的水果分类与模型调优实验记录一次较为满意的实验。调优过程参考了Chollet大神的《Python深度学习》第8 - 掘金
+        url: https://juejin.cn/post/7420978253492682802
+        icon: fas fa-link
+        description: ""
+      - name: 子夜星网站 · Midnight Star ·
+        url: http://www.ziyexing.com/
+        icon: fas fa-link
+        description: ""
+      - name: 授粉.AI
+        url: https://pollinations.ai/
+        icon: fas fa-link
+        description: ""
+      - name: 地址证明生成器
+        url: https://www.addrproof.top/
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯安全-网址安全中心
+        url: https://urlsec.qq.com/wxApplet/wechat/appletUrlComplain#/
+        icon: fas fa-link
+        description: ""
+      - name: 美国地址 • 包裹转运 • Planet Express
+        url: https://planetexpress.com/?ref=329577
+        icon: fas fa-link
+        description: ""
+      - name: 打字鸭 - 专业的在线打字练习平台
+        url: https://daziya.com/lesson/?courseId=8a269301536307f71deaab723e12c84d&amp;lessonId=743bd2b8f6299f509ba58e268936e43b
+        icon: fas fa-link
+        description: ""
+      - name: 哪里注册de域名最便宜 - 第1页 - 哪煮米
+        url: https://www.nazhumi.com/domain/de/1
+        icon: fas fa-link
+        description: ""
+      - name: 比较所有顶级域名的价格 | 顶级域名列表
+        url: https://zh-hans.tld-list.com/
+        icon: fas fa-link
+        description: ""
+      - name: 随便聊聊 · LobeChat
+        url: https://lobechat.com/chat?session=inbox
+        icon: fas fa-link
+        description: ""
+      - name: 无损控 - 无损音乐下载FLAC,WAV,APE,MP3格式高品质歌曲免费下载网站
+        url: https://wusunk.com/
+        icon: fas fa-link
+        description: ""
+      - name: 汽车票查询,汽车票网上订购,汽车票-新途云汽车票
+        url: https://m.xintuyun.cn/html/index.html?ttsid=85&amp;code=09152m100wPIqS1wzL100ZUeC4052m1G#/
+        icon: fas fa-link
+        description: ""
+      - name: Navidrome
+        url: https://hualiucaishi.zuidiao.de/app/#/album/all?sort=name&amp;order=ASC&amp;filter={}
+        icon: fas fa-link
+        description: ""
+      - name: Experiments
+        url: chrome://flags/#fluent-overlay-scrollbars
+        icon: fas fa-link
+        description: ""
+      - name: Microsoft 激活脚本 (MAS) | MAS
+        url: https://massgrave.dev/#how-to-activate-windows--office
+        icon: fas fa-link
+        description: ""
+      - name: 收件箱 (10) - zhangruikang365@gmail.com - Gmail
+        url: https://mail.google.com/mail/u/0/#inbox
+        icon: fab fa-google
+        description: ""
+      - name: AIchatOS
+        url: https://chat18.aichatos8.com/#/chat/1717656847470
+        icon: fas fa-link
+        description: ""
+      - name: MJJ.TODAY - 免费图床 上传图片分享
+        url: https://mjj.today/
+        icon: fas fa-link
+        description: ""
+      - name: 仪表盘 - 外星云
+        url: https://www.xn--9kq49wbqk.site/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: Portal - The Ring of Wonder
+        url: https://trow.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 天工AI
+        url: https://www.tiangong.cn/
+        icon: fas fa-link
+        description: ""
+      - name: PanSearch | 网盘资源搜索 | 网盘搜索引擎
+        url: https://www.pansearch.me/
+        icon: fas fa-link
+        description: ""
+      - name: 图床
+        url: https://111666.best/
+        icon: fas fa-link
+        description: ""
+      - name: X
+        url: https://x.com/home
+        icon: fas fa-link
+        description: ""
+      - name: 世界知识产权组织
+        url: https://www.wipo.int/portal/zh/
+        icon: fas fa-link
+        description: ""
+      - name: 中国数字时代 - 在这里，了解祖国
+        url: https://chinadigitaltimes.net/chinese
+        icon: fas fa-link
+        description: ""
+      - name: 爱妹子
+        url: https://xx.knit.bid/
+        icon: fas fa-link
+        description: ""
+      - name: AI Féng Hé Guài(缝合怪)(bsdsma.com)_Java代码生成器，远程1对1服务
+        url: https://bsdsma.com/
+        icon: fas fa-link
+        description: ""
+      - name: eu.org域名的申请流程 - Eslzzyl - 博客园
+        url: https://www.cnblogs.com/eslzzyl/p/17765702.html
+        icon: fas fa-link
+        description: ""
+      - name: 【推荐】目前市面上免费的大模型API汇总（2024年6月17日） - 资源荟萃 - LINUX DO
+        url: https://linux.do/t/topic/113902
+        icon: fas fa-link
+        description: ""
+      - name: 基于CNN的水果分类与模型调优实验记录一次较为满意的实验。调优过程参考了Chollet大神的《Python深度学习》第8 - 掘金
+        url: https://juejin.cn/post/7420978253492682802
+        icon: fas fa-link
+        description: ""
+      - name: 子夜星网站 · Midnight Star ·
+        url: http://www.ziyexing.com/
+        icon: fas fa-link
+        description: ""
+      - name: 授粉.AI
+        url: https://pollinations.ai/
+        icon: fas fa-link
+        description: ""
+      - name: 地址证明生成器
+        url: https://www.addrproof.top/
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯安全-网址安全中心
+        url: https://urlsec.qq.com/wxApplet/wechat/appletUrlComplain#/
+        icon: fas fa-link
+        description: ""
+      - name: 美国地址 • 包裹转运 • Planet Express
+        url: https://planetexpress.com/?ref=329577
+        icon: fas fa-link
+        description: ""
+      - name: 打字鸭 - 专业的在线打字练习平台
+        url: https://daziya.com/lesson/?courseId=8a269301536307f71deaab723e12c84d&amp;lessonId=743bd2b8f6299f509ba58e268936e43b
+        icon: fas fa-link
+        description: ""
+      - name: 哪里注册de域名最便宜 - 第1页 - 哪煮米
+        url: https://www.nazhumi.com/domain/de/1
+        icon: fas fa-link
+        description: ""
+      - name: 比较所有顶级域名的价格 | 顶级域名列表
+        url: https://zh-hans.tld-list.com/
+        icon: fas fa-link
+        description: ""
+      - name: 随便聊聊 · LobeChat
+        url: https://lobechat.com/chat?session=inbox
+        icon: fas fa-link
+        description: ""
+      - name: 无损控 - 无损音乐下载FLAC,WAV,APE,MP3格式高品质歌曲免费下载网站
+        url: https://wusunk.com/
+        icon: fas fa-link
+        description: ""
+      - name: 汽车票查询,汽车票网上订购,汽车票-新途云汽车票
+        url: https://m.xintuyun.cn/html/index.html?ttsid=85&amp;code=09152m100wPIqS1wzL100ZUeC4052m1G#/
+        icon: fas fa-link
+        description: ""
+      - name: Navidrome
+        url: https://hualiucaishi.zuidiao.de/app/#/album/all?sort=name&amp;order=ASC&amp;filter={}
+        icon: fas fa-link
+        description: ""
+      - name: Experiments
+        url: chrome://flags/#fluent-overlay-scrollbars
+        icon: fas fa-link
+        description: ""
+      - name: Microsoft 激活脚本 (MAS) | MAS
+        url: https://massgrave.dev/#how-to-activate-windows--office
+        icon: fas fa-link
+        description: ""
+      - name: 淄博职业学院{&quot;favicon&quot;:&quot;https://lib.xiaoshuapp.com/ico/icon?size=32..120..256&amp;url=https://www.zbvc.edu.cn/&quot;,&quot;des&quot;:&quot;&quot;}
+        url: https://www.zbvc.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: QQ邮箱
+        url: https://mail.qq.com/cgi-bin/frame_html?sid=O_ApMohwbd8lQVUx&amp;r=35dbc6f88624d29293abab651e6fbaf2&amp;lang=zh
+        icon: fas fa-link
+        description: ""
+      - name: 起点
+        url: https://my.qidian.com/bookcase/
+        icon: fas fa-link
+        description: ""
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com/
+        icon: fas fa-link
+        description: ""
+      - name: 知乎
+        url: https://www.zhihu.com/
+        icon: fas fa-link
+        description: ""
+      - name: OAIPro API
+        url: https://api.oaipro.com/
+        icon: fas fa-link
+        description: ""
+      - name: AIchatOS
+        url: https://chat18.aichatos8.com/#/chat/1723448983184
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - Google 云端硬盘
+        url: https://drive.google.com/drive/home
+        icon: fab fa-google
+        description: ""
+      - name: YouTube
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: ""
+      - name: 维基百科，自由的百科全书
+        url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+        icon: fab fa-wikipedia-w
+        description: ""
+      - name: 抖音
+        url: https://www.douyin.com/
+        icon: fas fa-link
+        description: ""
+      - name: Quora
+        url: https://www.quora.com/
+        icon: fas fa-link
+        description: ""
+      - name: MyFlixer
+        url: https://myflixerz.to/
+        icon: fas fa-link
+        description: ""
+      - name: GitHub
+        url: https://github.com/
+        icon: fab fa-github
+        description: ""
+      - name: Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件
+        url: https://qwerty.kaiyi.cool/
+        icon: fas fa-link
+        description: ""
+      - name: "ClouDNS: 域名设置 (zrk.ip-ddns.com)"
+        url: https://www.cloudns.net/records/domain/8451301/
+        icon: fas fa-link
+        description: ""
+      - name: MirrorZ.org
+        url: https://mirrorz.org/
+        icon: fas fa-link
+        description: ""
+      - name: ResearchFlow | 深度探索的 AI 研究引擎
+        url: https://rflow.ai/zh/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 首页 · 魔搭社区
+        url: https://www.modelscope.cn/home
+        icon: fas fa-link
+        description: ""
+      - name: Tripo 网页版 | 随心设计、个性定制，打造属于您的 3D 世界
+        url: https://www.tripo3d.ai/app/home
+        icon: fas fa-link
+        description: ""
+      - name: flowith 2.0 - Your AI Creation Workspace, with Knowledge
+        url: https://flowith.io/blank
+        icon: fas fa-link
+        description: ""
+      - name: 自由钢琴 - AutoPiano | 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
+        url: https://www.autopiano.cn/
+        icon: fas fa-link
+        description: ""
+      - name: vercel
+        url: https://vercel.com/
+        icon: fas fa-link
+        description: ""
+      - name: vercel
+        url: https://vercel.com/
+        icon: fas fa-link
+        description: ""
+      - name: vercel
+        url: https://vercel.com/
+        icon: fas fa-link
+        description: ""
