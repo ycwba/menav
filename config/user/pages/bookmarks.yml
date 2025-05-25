@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-25T14:40:21.295Z
+# 由bookmark-processor.js生成于 2025-05-25T15:15:00.776Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -46,6 +46,13 @@ categories:
         description: ""
       - name: uni-api-config-generator
         url: http://uicfg.zuidiao.de/
+        icon: fas fa-link
+        description: ""
+  - name: 实用
+    icon: fas fa-folder
+    sites:
+      - name: uni-api 配置生成器
+        url: https://uni-api-config-generator.vercel.app/
         icon: fas fa-link
         description: ""
   - name: 其他书签
