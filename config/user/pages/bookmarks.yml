@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-25T07:05:49.878Z
+# 由bookmark-processor.js生成于 2025-05-25T09:48:54.000Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -19,6 +19,21 @@ categories:
         description: ""
       - name: clerk
         url: https://dashboard.clerk.com/
+        icon: fas fa-link
+        description: ""
+      - name: Koyeb
+        url: https://app.koyeb.com/
+        icon: fas fa-link
+        description: ""
+  - name: 项目
+    icon: fas fa-folder
+    sites:
+      - name: CloudPaste - 安全分享您的内容
+        url: https://file.456147.xyz/admin
+        icon: fas fa-link
+        description: ""
+      - name: Temp Email
+        url: https://email.456147.xyz/
         icon: fas fa-link
         description: ""
   - name: 其他书签
