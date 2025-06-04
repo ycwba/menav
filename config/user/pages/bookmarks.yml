@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-25T15:15:00.776Z
+# 由bookmark-processor.js生成于 2025-06-04T14:09:07.043Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -82,12 +82,12 @@ categories:
         url: https://daziya.com/lesson/?courseId=8a269301536307f71deaab723e12c84d&amp;lessonId=743bd2b8f6299f509ba58e268936e43b
         icon: fas fa-link
         description: ""
-      - name: 哪里注册de域名最便宜 - 第1页 - 哪煮米
-        url: https://www.nazhumi.com/domain/de/1
-        icon: fas fa-link
-        description: ""
       - name: 比较所有顶级域名的价格 | 顶级域名列表
         url: https://zh-hans.tld-list.com/
+        icon: fas fa-link
+        description: ""
+      - name: 哪里注册de域名最便宜 - 第1页 - 哪煮米
+        url: https://www.nazhumi.com/domain/de/1
         icon: fas fa-link
         description: ""
       - name: 无损控 - 无损音乐下载FLAC,WAV,APE,MP3格式高品质歌曲免费下载网站
@@ -112,5 +112,24 @@ categories:
         description: ""
       - name: 自由钢琴 - AutoPiano | 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩
         url: https://www.autopiano.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 已删除域名 | 您现在可以购买的可用域名！
+        url: https://www.expireddomains.net/deleted-domains/
+        icon: fas fa-link
+        description: ""
+      - name: englishdaily.ai
+        url: https://englishdaily.ai/
+        icon: fas fa-link
+        description: ""
+  - name: 移动设备书签
+    icon: fas fa-folder
+    sites:
+      - name: Interesting open-source community - HelloGitHub
+        url: https://hellogithub.com/en
+        icon: fab fa-github
+        description: ""
+      - name: hrpzcf/AwesomePyKit
+        url: https://gitee.com/hrpzcf/AwesomePyKit
         icon: fas fa-link
         description: ""
