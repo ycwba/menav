@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-17T12:29:27.273Z
+# 由bookmark-processor.js生成于 2025-06-23T04:27:48.650Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -120,6 +120,10 @@ categories:
         description: ""
       - name: englishdaily.ai
         url: https://englishdaily.ai/
+        icon: fas fa-link
+        description: ""
+      - name: Windows 系统美化/增强类软件整理：致力于打造最全的 Windows 定制指南 - 少数派
+        url: https://sspai.com/post/86218
         icon: fas fa-link
         description: ""
   - name: 移动设备书签
